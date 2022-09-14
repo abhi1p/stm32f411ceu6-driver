@@ -1,0 +1,6 @@
+"./Src/003SPI_test.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f411ceux.o"
+"./drivers/Src/stm32f411xx_SPI_driver.o"
+"./drivers/Src/stm32f411xx_gpio_driver.o"
